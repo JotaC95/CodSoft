@@ -1,6 +1,6 @@
 # CodSoft
 
-# My proyects
+# My projects
 
 Here you will find a list of projects I have worked on:
 
