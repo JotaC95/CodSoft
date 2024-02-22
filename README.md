@@ -10,10 +10,10 @@ Creating a personal portfolio using CSS and HTML is a popular beginner web devel
 ## [Landing page](URL-del-repositorio)
 A landing page is an ideal web development project for beginners. It requires basicknowledge of HTML and CSS.
 
-## [Calculator](URL-del-repositorio)
+## [Calculator]((https://github.com/JotaC95/Calcularor.git))
 A landing page is an ideal web development project for beginners. It requires basicknowledge of HTML and CSS.
 
-## [Job Board]([URL-del-repositorio](https://github.com/JotaC95/jobBoard.git))
+## [Job Board]((https://github.com/JotaC95/jobBoard.git))
 
 
 
